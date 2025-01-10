@@ -32,13 +32,13 @@
    ```
 ## Usage
 
-	1.	Configure the database connection in application.properties.
-	2.	Run the application:
+1.	Configure the database connection in application.properties.
+2.	Run the application:
 
    ```bash
     java -jar target/i18nDBNormalizer.jar
    ```
 
-##Contact
+## Contact
 
 For any inquiries or issues, please contact RyanRen2023 via GitHub.
